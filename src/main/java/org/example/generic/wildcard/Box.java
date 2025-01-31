@@ -1,4 +1,4 @@
-package org.example.generic.ex4;
+package org.example.generic.wildcard;
 
 public class Box<T>{
     private T value;
