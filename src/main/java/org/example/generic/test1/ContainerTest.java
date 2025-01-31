@@ -1,4 +1,4 @@
-package org.example.generic.test;
+package org.example.generic.test1;
 
 public class ContainerTest {
     public static void main(String[] args) {
