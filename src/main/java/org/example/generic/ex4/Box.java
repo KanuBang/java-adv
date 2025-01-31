@@ -1,13 +1,11 @@
-package org.example.generic.ex1;
+package org.example.generic.ex4;
 
-public class GenericBox <T> {
+public class Box<T>{
     private T value;
-
     public void set(T value) {
         this.value = value;
     }
-
-    public T get(){
+    public T get() {
         return value;
     }
 }

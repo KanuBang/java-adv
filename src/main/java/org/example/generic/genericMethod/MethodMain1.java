@@ -1,4 +1,4 @@
-package org.example.generic.ex3;
+package org.example.generic.genericMethod;
 
 public class MethodMain1 {
     public static void main(String[] args) {

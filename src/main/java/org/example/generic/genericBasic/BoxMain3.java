@@ -1,4 +1,4 @@
-package org.example.generic.ex1;
+package org.example.generic.genericBasic;
 
 public class BoxMain3 {
     public static void main(String[] args) {

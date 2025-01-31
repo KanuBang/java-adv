@@ -1,4 +1,4 @@
-package org.example.generic.ex3;
+package org.example.generic.genericMethod;
 
 public class GenericMethod {
     public static Object objectMethod(Object obj) {

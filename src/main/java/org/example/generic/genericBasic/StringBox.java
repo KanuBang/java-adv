@@ -1,4 +1,4 @@
-package org.example.generic.ex1;
+package org.example.generic.genericBasic;
 
 public class StringBox {
     private String value;

@@ -1,4 +1,4 @@
-package org.example.generic.ex3;
+package org.example.generic.genericMethod;
 
 import org.example.generic.animal.Cat;
 import org.example.generic.animal.Dog;

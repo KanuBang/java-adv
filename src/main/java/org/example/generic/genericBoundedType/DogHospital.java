@@ -1,12 +1,11 @@
-package org.example.generic.ex2;
+package org.example.generic.genericBoundedType;
 
-import org.example.generic.animal.Cat;
 import org.example.generic.animal.Dog;
 
-public class CatHospital {
-    private Cat animal;
+public class DogHospital {
+    private Dog animal;
 
-    public void set(Cat animal) {
+    public void set(Dog animal) {
         this.animal = animal;
     }
 
@@ -16,7 +15,7 @@ public class CatHospital {
         animal.sound();
     }
 
-    public Cat bigger(Cat target) {
+    public Dog bigger(Dog target) {
         return animal.getSize() > target.getSize() ? animal : target;
     }
 }

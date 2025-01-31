@@ -1,7 +1,6 @@
-package org.example.generic.ex2;
+package org.example.generic.genericBoundedType;
 
 import org.example.generic.animal.Animal;
-import org.example.generic.animal.Cat;
 
 public class AnimalHospitalV1 {
     private Animal animal;

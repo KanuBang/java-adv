@@ -1,4 +1,4 @@
-package org.example.generic.ex2;
+package org.example.generic.genericBoundedType;
 
 import org.example.generic.animal.Cat;
 import org.example.generic.animal.Dog;
