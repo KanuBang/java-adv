@@ -1,4 +1,4 @@
-package org.example.generic.test;
+package org.example.generic.test1;
 
 public class Pair<T1,T2> {
     private T1 first;
