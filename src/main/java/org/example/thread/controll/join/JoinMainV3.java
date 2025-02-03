@@ -1,4 +1,4 @@
-package org.example.thread.controll;
+package org.example.thread.controll.join;
 
 import static org.example.thread.util.MyLogger.log;
 import static org.example.thread.util.ThreadUtils.sleep;

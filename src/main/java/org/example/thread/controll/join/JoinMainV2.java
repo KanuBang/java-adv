@@ -1,9 +1,9 @@
-package org.example.thread.controll;
+package org.example.thread.controll.join;
 
 import static org.example.thread.util.MyLogger.log;
 import static org.example.thread.util.ThreadUtils.sleep;
 
-public class JoinMainV1 {
+public class JoinMainV2 {
     public static void main(String[] args) {
         log("start");
         SumTask sumTask1 = new SumTask(1, 50);
@@ -15,7 +15,7 @@ public class JoinMainV1 {
         thread2.start();
 
 
-
+        sleep(3000);
         log("task1.result = " + sumTask1.result);
         log("task2.result = " + sumTask2.result);
         int sumAll = sumTask1.result + sumTask2.result;
